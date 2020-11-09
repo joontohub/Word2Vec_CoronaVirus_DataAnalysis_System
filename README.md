@@ -1,8 +1,9 @@
 
-#WORD2Vec Data with Movie comment
+# WORD2Vec Data with Movie comment
 
-###contagion comment
+### contagion comment
 <img src="/contagion_data_image.jpg"  width="700" height="370">
 
-###flu comment
+
+### flu comment
 <img src="/flu_data_image.jpg"  width="700" height="370">
