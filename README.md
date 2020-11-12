@@ -2,7 +2,7 @@
 # WORD2Vec Data with Movie comment
 
 
-####201402412 이승준 
+#### 201402412 이승준 
 
 
 ### contagion comment
