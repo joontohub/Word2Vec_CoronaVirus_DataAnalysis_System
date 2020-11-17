@@ -11,7 +11,8 @@
 
 ### flu comment
 <img src="/flu_data_image.jpg"  width="700" height="370">
-<<<<<<< HEAD
+
 
 
 ### check test in word2vecsystem
+https://github.com/joontohub/Word2Vec_CoronaVirus_DataAnalysis_System/blob/master/Word2VecSystem.ipynb
