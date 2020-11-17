@@ -14,6 +14,4 @@
 <<<<<<< HEAD
 
 
-### check test 
-=======
->>>>>>> 8ff2ded0de79b74983084ee6fd12867e4cfa1436
+### check test in word2vecsystem
