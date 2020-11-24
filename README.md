@@ -1,14 +1,31 @@
 
-# WORD to Vector Data with Movie comment
+ WORD to Vector Data with Movie comment
+ =========================================
+ 
 ### Lecture Chinise culture Data portfolio by baro kim
 ## CoronaVirus Data Analysis
 
-### this project is made for research on People's recognitive difference with Contasion and flu Movie .
+this project is made for research on People's recognitive difference 
+--------------------------------------------------------------------------
+###with Contasion and flu Movie .
 
-#### this is made by joonto  
+> this is made by joonto  
+> 201402412 이승준 
 
-### 201402412 이승준 
 
+How to Use
+------------------------------------------
+
+  if you want to research with this project 
+  click Fork or Clone and edit in your repo.
+  
+### 1. Open 
+
+
+### 2. Open
+
+
+### 3. See
 
 
 ### contagion comment
