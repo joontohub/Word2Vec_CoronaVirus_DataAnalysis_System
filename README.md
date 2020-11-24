@@ -3,10 +3,10 @@
  =========================================
  
 ### Lecture Chinise culture Data portfolio by baro kim
-## CoronaVirus Data Analysis
+### CoronaVirus Data Analysis
 
-this project is made for research on People's recognitive difference 
---------------------------------------------------------------------------
+###this project is made for research on People's recognitive difference 
+
 ###with Contasion and flu Movie .
 
 > this is made by joonto  
