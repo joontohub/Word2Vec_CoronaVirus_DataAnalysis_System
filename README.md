@@ -21,7 +21,8 @@ How to Use
 ## 1. Open DataScraper.ipynb
 
 <img src="/datapic1.PNG"  >
-#### you can edit movieid to what you want to change. you can find movie id in naver movie website url.
+
+####  you can edit movieid to what you want to change. you can find movie id in naver movie website url.
 
 <img src="/datapic2.PNG"  >
 
