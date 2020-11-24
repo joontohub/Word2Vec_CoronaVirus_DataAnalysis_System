@@ -2,7 +2,7 @@
  WORD to Vector Data with Movie comment
  =========================================
  
- Lecture Chinise culture Data portfolio by baro kim
+ > Lecture Chinese culture Data portfolio by baro kim
 ### CoronaVirus Data Analysis
 
 > this project is made for research on People's recognitive difference 
