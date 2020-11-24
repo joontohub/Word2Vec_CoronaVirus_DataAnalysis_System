@@ -21,13 +21,30 @@ How to Use
 ### 1. Open DataScraper.ipynb
 
 <img src="/datapic1.PNG"  >
-##### you can edit 
+##### you can edit movieid to what you want to change. you can find movie id in naver movie website url.
+
+<img src="/datapic2.PNG"  >
+
+##### you can change csv file name. if you use metrix, you can change metrix.csv
 
 
-### 2. Open
+
+### 2. Open Word2VecSystem.ipynb
+
+<img src="/datapic3.PNG"  >
+
+##### you can change what you want to recognize. if you want to use metrix.csv, you just put 'metrix.csv' in the string part.
+
+<img src="/datapic4.PNG"  >
+
+##### you can get the one word similarity
+
+<img src="/datapic5.PNG"  >
+
+##### you can test the positive and the negative 
 
 
-### 3. See
+### 3. See the result in x, y Vectors
 
 
 ### contagion comment
