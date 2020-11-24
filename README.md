@@ -8,8 +8,8 @@
 ### this project is made for research on People's recognitive difference 
 ### with Contasion and flu Movie .
 
-> this is made by joonto  
-> 201402412 이승준 
+#### this is made by joonto  
+#### 201402412 이승준 
 
 
 How to Use
@@ -18,7 +18,10 @@ How to Use
   if you want to research with this project 
   click Fork or Clone and edit in your repo.
   
-### 1. Open 
+### 1. Open DataScraper.ipynb
+
+
+
 
 
 ### 2. Open
