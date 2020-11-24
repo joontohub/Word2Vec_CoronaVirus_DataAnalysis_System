@@ -59,6 +59,4 @@ How to Use
 <img src="/flu_data_image.jpg"  width="500" height="250">
 
 
-
-### check test in word2vecsystem
-https://github.com/joontohub/Word2Vec_CoronaVirus_DataAnalysis_System/blob/master/Word2VecSystem.ipynb
+-------------------------------------------------------------
