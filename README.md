@@ -1,8 +1,13 @@
 
-# WORD2Vec Data with Movie comment
+# WORD to Vector Data with Movie comment
+## CoronaVirus Data Analysis
 
+### this project is made for research on People's recognitive difference with Contasion and flu Movie .
 
-#### 201402412 이승준 
+#### this is made by joonto  
+
+### 201402412 이승준 
+
 
 
 ### contagion comment
