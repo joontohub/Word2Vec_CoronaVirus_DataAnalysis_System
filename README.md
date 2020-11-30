@@ -20,11 +20,11 @@ How to Use
   
 ## 1. Open DataScraper.ipynb
 
-<img src="/datapic1.PNG"  >
+<img src="/imgs/datapic1.PNG"  >
 
 ####  you can edit movieid to what you want to change. you can find movie id in naver movie website url.
 
-<img src="/datapic2.PNG"  >
+<img src="/imgs/datapic2.PNG"  >
 
 #### you can change csv file name. if you use metrix, you can change metrix.csv
 
@@ -32,15 +32,15 @@ How to Use
 
 ## 2. Open Word2VecSystem.ipynb
 
-<img src="/datapic3.PNG"  >
+<img src="/imgs/datapic3.PNG"  >
 
 #### you can change what you want to recognize. if you want to use metrix.csv, you just put 'metrix.csv' in the string part.
 
-<img src="/datapic4.PNG"  >
+<img src="/imgs/datapic4.PNG"  >
 
 #### you can get the one word similarity
 
-<img src="/datapic5.PNG"  >
+<img src="/imgs/datapic5.PNG"  >
 
 #### you can test the positive and the negative 
 
@@ -51,12 +51,12 @@ How to Use
  contagion comment
  ------------------
  
-<img src="/contagion_data_image.jpg"  width="500" height="250">
+<img src="/imgs/contagion_data_image.jpg"  width="500" height="250">
 
 
  flu comment
  ------------
-<img src="/flu_data_image.jpg"  width="500" height="250">
+<img src="/imgs/flu_data_image.jpg"  width="500" height="250">
 
 
 -------------------------------------------------------------
