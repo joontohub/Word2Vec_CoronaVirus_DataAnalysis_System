@@ -120,7 +120,7 @@ Usage
 
 2D 데이터는 무작위적인 양태로 보임
 
-<img src="/imgs/2019_word_result.jpg"  width="1000" height="250">
+<img src="/imgs/2019_word_result.jpg"  width="500" height="250">
 
 전염병, 위험 / 중국 => 바이러스 
 질병 이 높은 수치로 나옴
@@ -142,7 +142,7 @@ Usage
 감기 검색시
 중국, 폐렴 연관단어로 존재
 
-<img src="/imgs/2020_word_result.jpg"  width="1000" height="250">
+<img src="/imgs/2020_word_result.jpg"  width="500" height="250">
 
 전염병, 위험 / 연출(영화 중심 댓글) 
 
