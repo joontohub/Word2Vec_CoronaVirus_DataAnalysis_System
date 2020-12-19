@@ -120,7 +120,7 @@ Word to Vector 적용하여,
 
 2D 데이터는 무작위적인 양태로 보임
 
-<img src="/imgs/2019_word_result.jpg"  width="500" height="250">
+<img src="/imgs/2019_word_result.jpg"  width="1000" height="250">
 
 전염병, 위험 / 중국 => 바이러스 
 질병 이 높은 수치로 나옴
@@ -141,7 +141,7 @@ Word to Vector 적용하여,
 감기 검색시
 중국, 폐렴 연관단어로 존재
 
-<img src="/imgs/2020_word_result.jpg"  width="500" height="250">
+<img src="/imgs/2020_word_result.jpg"  width="1000" height="250">
 
 전염병, 위험 / 연출(영화 중심 댓글) 
 
@@ -154,7 +154,7 @@ Word to Vector 적용하여,
 
 ### 단어를 통한 변화검출
 
-<img src="/imgs/word_fear.jpg"  width="500" height="250">
+<img src="/imgs/word_fear.jpg"  width="1000" height="500">
 
 ### 왼쪽 사진은 "감기" 영화 단어에서 공포를 검색한 2019, 2020 데이터 ( 위아래 차례대로 )
 ### 오른쪽 사진은 "컨테이젼" 영화 단어에서 공포를 검색한 2019, 2020 데이터 ( 위아래 차례대로 )
@@ -178,7 +178,7 @@ Word to Vector 적용하여,
 영화 컨테이젼은 연관단어의 검색확률이 감기에 비해 높은 것으로 보아, 감기보다 전염병에 대한 단어가 많이 등장하였고 2020년에 구체화되었다.
 
 
-<img src="/imgs/word_movie.jpg"  width="500" height="250">
+<img src="/imgs/word_movie.jpg"  width="1000" height="500">
 
 “영화”  감기 영화에 대한 인식
 2019 이전 과 2020 이후-> 대략 확률 10% 이상 차이 + 대상에 대한 부정적 인식 생성 및 강화
